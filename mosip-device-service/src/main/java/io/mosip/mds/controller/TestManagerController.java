@@ -2,6 +2,7 @@ package io.mosip.mds.controller;
 
 import io.mosip.mds.entitiy.*;
 
+import org.springframework.http.HttpEntity;
 import org.springframework.web.bind.annotation.*;
 
 import io.mosip.mds.dto.TestManagerDto;
@@ -79,4 +80,15 @@ public class TestManagerController {
 		// TODO Add try catch as well as return handler for 404 and 500 cases
 		return testManager.GetReport(runId);
 	}
+
+	@GetMapping("/pdfreport/{runId}")
+	@ApiOperation(value = "Retrieve Test Report bassed on runId in pdf format", notes = "Retrieve Test Report bassed on runId in pdf format")
+	@ApiResponses({
+			@ApiResponse(code = 200, message = "When Test Report retrieved"),
+			@ApiResponse(code = 404, message = "When Test Report found"),
+			@ApiResponse(code = 500, message = "While retrieving Test Report any error occured") })
+	public HttpEntity<byte[]> getpdfTestReport(@PathVariable("runId")String runId) throws Exception {
+		return testManager.GetPdfReport(runId,"report.pdf");
+	}
+
 }

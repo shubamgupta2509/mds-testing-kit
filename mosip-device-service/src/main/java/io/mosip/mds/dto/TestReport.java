@@ -6,6 +6,16 @@ import java.util.HashMap;
 import java.util.List;
 
 public class TestReport {
+    @Override
+    public String toString() {
+        return String.format(
+                        "\n Run Id "+runId
+                        +"\n Run Status " + runStatus
+                        +"\n Created On " +createdOn
+                        +"\n Tests \n" + tests.toString()
+                        +"\n Test Report \n" + testReport
+        );
+    }
 
     public TestReport(TestRun testRun)
     {
