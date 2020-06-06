@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccab1aff-ab55-4dfb-97b2-2664b5f840f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cwlIHf32hWRJDsIavygjnxJLwe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccab1aff-ab55-4dfb-97b2-2664b5f840f0" name="Default Changelist" comment="" />
+      <created>1591447454949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591447454949</updated>
+      <workItem from="1591447458931" duration="1624000" />
+    </task>
+    <task id="LOCAL-00001" summary="Revert &quot;Added Pdf Report Generation&quot;&#10;&#10;This reverts commit 22846abb">
+      <created>1591449234723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591449234723</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;Added Pdf Report Generation&quot;&#10;&#10;This reverts commit 22846abb" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Added Pdf Report Generation&quot;&#10;&#10;This reverts commit 22846abb" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="0" width="957" height="713" key="CommitChangelistDialog2" timestamp="1591449234520">
+      <screen x="0" y="0" width="1366" height="713" />
+    </state>
+    <state x="211" y="0" width="957" height="713" key="CommitChangelistDialog2/0.0.1366.713@0.0.1366.713" timestamp="1591449234520" />
+    <state x="466" y="116" width="448" height="524" key="FileChooserDialogImpl" timestamp="1591447559566">
+      <screen x="0" y="0" width="1366" height="713" />
+    </state>
+    <state x="466" y="116" width="448" height="524" key="FileChooserDialogImpl/0.0.1366.713@0.0.1366.713" timestamp="1591447559566" />
+    <state x="179" y="0" key="SettingsEditor" timestamp="1591450078349">
+      <screen x="0" y="0" width="1366" height="713" />
+    </state>
+    <state x="179" y="0" key="SettingsEditor/0.0.1366.713@0.0.1366.713" timestamp="1591450078349" />
+    <state x="278" y="94" width="824" height="568" key="Vcs.Push.Dialog.v2" timestamp="1591449360084">
+      <screen x="0" y="0" width="1366" height="713" />
+    </state>
+    <state x="278" y="94" width="824" height="568" key="Vcs.Push.Dialog.v2/0.0.1366.713@0.0.1366.713" timestamp="1591449360084" />
+  </component>
+</project>
