@@ -6,18 +6,6 @@ import java.util.HashMap;
 import java.util.List;
 
 public class TestReport {
-        @Override
-    public String toString() {
-        return String.format(
-                "\n Test Report"
-                +"\n Run Id "+runId
-                        +"\n Run Status " + runStatus
-                        +"\n Created On " +createdOn
-                        +"\n Tests \n" + tests.toString()
-                        +"\n Test Report \n" + testReport
-
-        );
-    }
 
     public TestReport(TestRun testRun)
     {
@@ -37,5 +25,5 @@ public class TestReport {
     public List<String> tests = new ArrayList<String>();
 
     public HashMap<String, TestResult> testReport = new HashMap<>();
-
+    
 }
